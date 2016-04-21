@@ -1,0 +1,32 @@
+{
+  "name": "webpack-profiles",
+  "version": "0.1.0",
+  "description": "Profiles support for webpack module bundler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barteksc/webpack-profiles.git"
+  },
+  "keywords": [
+    "webpack",
+    "profiles",
+    "build",
+    "config"
+  ],
+  "author": "Bartosz Schiller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barteksc/webpack-profiles/issues"
+  },
+  "homepage": "https://github.com/barteksc/webpack-profiles#readme",
+  "devDependencies": {
+    "app-root-path": "^1.0.0",
+    "colog": "^1.0.4",
+    "extendify": "^1.0.0",
+    "webpack": "^1.13.0",
+    "yargs": "^4.6.0"
+  }
+}
